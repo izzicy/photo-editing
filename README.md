@@ -2,7 +2,7 @@
 
 Photo editing commands that I was missing in my life.
 
-## Recusion
+## Recursion
 
 `php application recurse {source} {x} {y} {width} {height} {--recursion=6} {--out=}`
 <br>
